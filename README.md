@@ -1,4 +1,4 @@
-
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C21DF7&center=true&vCenter=true&random=true&height=100&lines=Cybersecurity+Expert;Pentester;Tinkerer;Threat+Analityc;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 🛠️ My Favorite Tools
 ---------------------
