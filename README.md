@@ -1,16 +1,14 @@
-### Hi there 👋
+### 💻 Software and Tools
 
-<!--
-**serplay/serplay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#) [![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](#) [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white)](#) [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#) [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#) [![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#) [![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)](#) [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#) [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#) [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 
-Here are some ideas to get you started:
+📊 Github Stats and Activity
+----------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Streak Stats
+
+[![serplay's streak](https://streak-stats.demolab.com/?user=serplay&theme=monokai-metallian&hide_border=true)](https://github.com/serplay/github-readme-streak-stats)
+
+### 💻 GitHub Profile Stats
+
+[![serplay's Github Stats](https://serplay-github-readme-stats.vercel.app/api/?username=serplay&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats) [![serplay's Top Languages](https://serplay-github-readme-stats.vercel.app/api/top-langs/?username=serplay&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)[![serplay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=serplay&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
