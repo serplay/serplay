@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=806E56
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=806E56
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,35 +35,35 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=AirLight
+          options: username=serplay&repo=AirLight&bg_color=806E56
           path: profile/pin-serplay-AirLight.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 2
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=AnyPass
+          options: username=serplay&repo=AnyPass&bg_color=806E56
           path: profile/pin-serplay-AnyPass.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 3
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=JustTouch
+          options: username=serplay&repo=JustTouch&bg_color=806E56
           path: profile/pin-serplay-JustTouch.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 4
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=manhwa-downloader
+          options: username=serplay&repo=manhwa-downloader&bg_color=806E56
           path: profile/pin-serplay-manhwa-downloader.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate wakatime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
             card: wakatime
-            options: username=serplay&layout=compact
+            options: username=serplay&layout=compact&bg_color=806E56
             token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
