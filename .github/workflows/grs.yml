@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=AirLight&bg_color=algolia&hide_border=true&bg_color=000000
+          options: username=serplay&repo=AirLight&theme=algolia&hide_border=true&bg_color=000000
           path: profile/pin-serplay-AirLight.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 2
