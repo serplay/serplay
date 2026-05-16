@@ -91,10 +91,10 @@ const SERPLAY: Developer = Developer {
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/serplay/RFID-Gramofon">
+  <a href="https://github.com/serplay/JustTouch">
     <img src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/serplay/ValorantSpikeTimer">
+  <a href="https://github.com/serplay/manhwa-downloader">
     <img src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
   </a>
 </p>
@@ -116,7 +116,7 @@ const SERPLAY: Developer = Developer {
     
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay">
-    <img height="180em" src="./profile/wakatime.svg" alt="Jakub's Stats" />
+    <img height="180em" src="./profile/wakatime.svg" alt="Jakub's Wakatime Stats" />
     
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay">

@@ -31,12 +31,33 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate pin card 1
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=serplay&repo=AirLight
+          path: profile/pin-serplay-AirLight.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate pin card 2
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=serplay&repo=AnyPass
+          path: profile/pin-serplay-AnyPass.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate pin card 3
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=serplay&repo=JustTouch
+          path: profile/pin-serplay-JustTouch.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate pin card 4
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=serplay&repo=manhwa-downloader
+          path: profile/pin-serplay-manhwa-downloader.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate wakatime card
         uses: readme-tools/github-readme-stats-action@v1
