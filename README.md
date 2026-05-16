@@ -84,18 +84,18 @@ const SERPLAY: Developer = Developer {
 
 <p align="center">
   <a href="https://github.com/serplay/AirLight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=AirLight&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="AirLight Project" />
+    <img src="./profile/pin-serplay-AirLight.svg" alt="AirLight Project" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/AnyPass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=AnyPass&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="AnyPass" />
+    <img src="./profile/pin-serplay-AnyPass.svg" alt="AnyPass" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/serplay/RFID-Gramofon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=JustTouch&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="JustTouch" />
+    <img src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/ValorantSpikeTimer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=manhwa-downloader&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Manhwa Downloader" />
+    <img src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
   </a>
 </p>
 
@@ -112,10 +112,15 @@ const SERPLAY: Developer = Developer {
 
 <p align="center">
   <a href="https://github.com/serplay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serplay&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="Jakub's Stats" />
+    <img height="180em" src="./profile/stats.svg" alt="Jakub's Stats" />
+    
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serplay&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
+    <img height="180em" src="./profile/wakatime.svg" alt="Jakub's Stats" />
+    
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/serplay">
+    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
