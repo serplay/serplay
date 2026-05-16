@@ -52,16 +52,16 @@ const SERPLAY: Developer = Developer {
     pronouns: "he/him",
     location: "Wrocław, Poland 🇵🇱",
     role: "Hardware & Cybersec Enthusiast | Full Stack Developer",
-    education: "Cybersecurity & Hardware Student",
+    education: "Cybersecurity Student",
     languages: ["C", "C++", "Rust", "Assembly (x86/ARM)", "Python", "TypeScript"],
     technologies: Technologies {
-        hardware: ["ESP", "Arduino", "Raspberry Pi", "CISCO"],
+        hardware: ["ESP", "Arduino", "Raspberry Pi", "CISCO", "FPGA", "other obscure microcontrolers"],
         frontend: ["React", "Tailwind CSS"],
         backend: ["Node.js", "Python", "Tokio"],
-        tools: ["Linux", "Git", "VS Code", "Wireshark"],
+        tools: ["Linux", "Git", "VS Code", "Wireshark", "IDA Pro"],
     },
     current_focus: "Connecting the physical and digital through secure IoT devices and reverse engineering embedded systems",
-    fun_fact: "I can debug memory leaks in C++ but still occasionally crushed by a react error",
+    fun_fact: "I can debug memory leaks in C++ but still occasionally get crushed by a react error",
 };
 ```
 
