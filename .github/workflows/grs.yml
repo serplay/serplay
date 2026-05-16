@@ -38,6 +38,12 @@ jobs:
           options: username=readme-tools&repo=github-readme-stats
           path: profile/pin-readme-tools-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate wakatime card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+            card: wakatime
+            options: username=octocat&layout=compact
+            token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
