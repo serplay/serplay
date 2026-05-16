@@ -115,10 +115,14 @@ const SERPLAY: Developer = Developer {
     <img height="180em" src="./profile/stats.svg" alt="Jakub's Stats" />
     
   </a>&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/serplay">
     <img height="180em" src="./profile/wakatime.svg" alt="Jakub's Wakatime Stats" />
     
   </a>&nbsp;&nbsp;
+</p>
+<p align="center">
   <a href="https://github.com/serplay">
     <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>

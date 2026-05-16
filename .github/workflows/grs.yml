@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=algolia
+          options: username=${{ github.repository_owner }}&show_icons=true&bg_color=000000
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=algolia
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=000000
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,35 +35,35 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=AirLight&theme=algolia
+          options: username=serplay&repo=AirLight&bg_color=000000
           path: profile/pin-serplay-AirLight.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 2
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=AnyPass&theme=algolia
+          options: username=serplay&repo=AnyPass&bg_color=000000
           path: profile/pin-serplay-AnyPass.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 3
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=JustTouch&theme=algolia
+          options: username=serplay&repo=JustTouch&bg_color=000000
           path: profile/pin-serplay-JustTouch.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate pin card 4
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=serplay&repo=manhwa-downloader&theme=algolia
+          options: username=serplay&repo=manhwa-downloader&bg_color=000000
           path: profile/pin-serplay-manhwa-downloader.svg
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Generate wakatime card
         uses: readme-tools/github-readme-stats-action@v1
         with:
             card: wakatime
-            options: username=serplay&layout=compact&theme=algolia
+            options: username=serplay&layout=compact&bg_color=000000
             token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
