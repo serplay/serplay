@@ -1,30 +1,155 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=C21DF7&vCenter=true&random=true&width=600&height=100&lines=Cybersecurity;Pentester;Tinkerer;Threat+Analityc;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!-- Header -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img alt="Jakub Rolak — Hardware Cybersec Enthusiast & Full Stack Developer" src="assets/header-dark.svg" width="100%">
+</picture>
 
-🛠️ My Favorite Tools
----------------------
+<!-- Profile Views -->
+<p align="right">
+  <a href="https://github.com/serplay">
+    <img src="https://komarev.com/ghpvc/?username=serplay&label=Profile%20Views&color=0070F3&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-### 👨‍💻 Programming and Markup Languages
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/serplay">
+    <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&duration=4000&pause=1000&color=EDEDED&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=750&height=50&lines=Hacker+%7C+Cybersec+Student+%7C+Full+Stack+Developer;Tinkering+with+ESP%2C+C%2B%2B%2C+and+Assembly;Building+secure+and+performant+applications" alt="Typing SVG" />
+  </a>
+</p>
 
-[![MIPS Assembly](https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Aassembly) [![Bash](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Abash) [![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ac) [![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acpp) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp) [![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Acss) [![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml) [![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajava) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript) [![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown) [![Node.js](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript) [![PHP](https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Aphp) [![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Apython) [![Scratch](https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Ascratch) [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
-### 🧰 Frameworks and Libraries
+<!-- Social & Platform Links -->
+<p align="center">
+  <a href="https://losingsanity.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/jakub-rolak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://instagram.com/causewhynotbruh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <img src="https://img.shields.io/badge/Discord-.infinity2137-000000?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />&nbsp;
+  <a href="https://tryhackme.com/p/serplay" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>&nbsp;
+  <a href="https://github.com/ALOPB-Hack-Club" target="_blank">
+    <img src="https://img.shields.io/badge/Hack_Club_Alumni-000000?style=for-the-badge&logo=hackclub&logoColor=white" alt="Hack Club" />
+  </a>
+</p>
+<p align="center">
+  <i>🏆 Hack Club Neighbourhood 3-Month App Dev Program Graduate based in San Francisco</i>
+</p>
 
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)](#) [![Discord.py](https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy)](#) [![Flask](https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white)](#) [![NumPy](https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white)](#) [![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)](#) [![SymPy](https://img.shields.io/badge/Sympy-3B5526.svg?logo=sympy&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white)](#) [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)](#) [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#) [![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)](#) [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#) [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](#) [![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)](#) [![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)](#)
+<br>
 
-### 🗄️ Databases and Cloud Hosting
+<!-- About Me -->
+## `> about_me.rs`
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white)](#) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#) [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](#) [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](#) [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)](#) [![Notion](https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white)](#) [![Oracle](https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white)](#) [![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)](#)
+```rust
+const SERPLAY: Developer = Developer {
+    pronouns: "he/him",
+    location: "Wrocław, Poland 🇵🇱",
+    role: "Hardware & Cybersec Enthusiast | Full Stack Developer",
+    education: "Cybersecurity & Hardware Student",
+    languages: ["C", "C++", "Rust", "Assembly (x86/ARM)", "Python", "TypeScript"],
+    technologies: Technologies {
+        hardware: ["ESP", "Arduino", "Raspberry Pi", "CISCO"],
+        frontend: ["React", "Tailwind CSS"],
+        backend: ["Node.js", "Python", "Tokio"],
+        tools: ["Linux", "Git", "VS Code", "Wireshark"],
+    },
+    current_focus: "Connecting the physical and digital through secure IoT devices and reverse engineering embedded systems",
+    fun_fact: "I can debug memory leaks in C++ but still occasionally crushed by a react error",
+};
+```
 
-### 💻 Software and Tools
+<br>
 
-[![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](#) [![Adobe](https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![Android Studio](https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white)](#) [![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](#) [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#) [![Audacity](https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white)](#) [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white)](#) [![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white)](#) [![Google Sheets](https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white)](#) [![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white)](#) [![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)](#) [![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)](#) [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#) [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
+<!-- Tech Stack -->
+## `> tech_stack & tools`
 
-📊 Github Stats and Activity
-----------------------------
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,react,nodejs,linux,bash,git,github,vscode,arduino,raspberrypi,docker,kubernetes,discord&theme=dark&perline=11" alt="Tech Stack" />
+  </a>
+</p>
 
-### 🔥 Streak Stats
 
-[![serplay's streak](https://streak-stats.demolab.com/?user=serplay&theme=monokai-metallian&hide_border=true)](https://github.com/serplay/github-readme-streak-stats)
+<br>
 
-### 💻 GitHub Profile Stats
+<!-- Featured Projects -->
+## `> featured_projects`
 
-[![serplay's Github Stats](https://github-readme-stats.vercel.app/api/?username=serplay&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serplay&layout=compact&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![serplay's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=serplay&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <a href="https://github.com/serplay/AirLight">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=AirLight&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="AirLight Project" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/serplay/AnyPass">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=AnyPass&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="AnyPass" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/serplay/RFID-Gramofon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=JustTouch&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="JustTouch" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/serplay/ValorantSpikeTimer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=serplay&repo=manhwa-downloader&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Manhwa Downloader" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/serplay?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<!-- GitHub Stats -->
+## `> github_stats`
+
+<p align="center">
+  <a href="https://github.com/serplay">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serplay&show_icons=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false&ring_color=0070F3" alt="Jakub's Stats" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/serplay">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serplay&langs_count=8&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=0070F3&border_color=333333&hide_border=false" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/serplay">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serplay&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br>
+
+<!-- Contribution Snake -->
+## `> contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serplay/serplay/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/serplay/serplay/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/serplay/serplay/output/github-snake-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/serplay">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=serplay&custom_title=Jakub's%20Contribution%20Graph&bg_color=000000&color=EDEDED&line=0070F3&point=00DFD8&area_color=0070F3&title_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  </a>
+</p>
+
+<br>
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img alt="Footer" src="assets/footer-dark.svg" width="100%">
+</picture>
