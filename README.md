@@ -92,10 +92,10 @@ const SERPLAY: Developer = Developer {
 </p>
 <p align="center">
   <a href="https://github.com/serplay/JustTouch">
-    <img height="120em" src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
+    <img height="125em" src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/manhwa-downloader">
-    <img height="120em" src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
+    <img height="125em" src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
   </a>
 </p>
 
