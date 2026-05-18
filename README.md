@@ -84,18 +84,18 @@ const SERPLAY: Developer = Developer {
 
 <p align="center">
   <a href="https://github.com/serplay/AirLight">
-    <img height="150em" src="./profile/pin-serplay-AirLight.svg" alt="AirLight Project" />
+    <img height="140em" src="./profile/pin-serplay-AirLight.svg" alt="AirLight Project" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/AnyPass">
-    <img height="150em" src="./profile/pin-serplay-AnyPass.svg" alt="AnyPass" />
+    <img height="140em" src="./profile/pin-serplay-AnyPass.svg" alt="AnyPass" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/serplay/JustTouch">
-    <img height="150em" src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
+    <img height="140em" src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/manhwa-downloader">
-    <img height="150em" src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
+    <img height="140em" src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
   </a>
 </p>
 
