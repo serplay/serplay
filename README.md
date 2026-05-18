@@ -58,7 +58,7 @@ const SERPLAY: Developer = Developer {
         hardware: ["ESP", "Arduino", "Raspberry Pi", "CISCO", "FPGA", "other obscure microcontrolers"],
         frontend: ["React", "Tailwind CSS"],
         backend: ["Node.js", "Python", "Tokio"],
-        tools: ["Linux", "Git", "VS Code", "Wireshark", "IDA Pro"],
+        tools: ["Linux", "Git", "VS Code", "Wireshark", "IDA Pro", "Docker", "Kubernetes"],
     },
     current_focus: "Connecting the physical and digital through secure IoT devices and reverse engineering embedded systems",
     fun_fact: "I can debug memory leaks in C++ but still occasionally get crushed by a react error",
@@ -84,18 +84,18 @@ const SERPLAY: Developer = Developer {
 
 <p align="center">
   <a href="https://github.com/serplay/AirLight">
-    <img src="./profile/pin-serplay-AirLight.svg" alt="AirLight Project" />
+    <img height="150em" src="./profile/pin-serplay-AirLight.svg" alt="AirLight Project" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/AnyPass">
-    <img src="./profile/pin-serplay-AnyPass.svg" alt="AnyPass" />
+    <img height="150em" src="./profile/pin-serplay-AnyPass.svg" alt="AnyPass" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/serplay/JustTouch">
-    <img src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
+    <img height="150em" src="./profile/pin-serplay-JustTouch.svg" alt="JustTouch" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/serplay/manhwa-downloader">
-    <img src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
+    <img height="150em" src="./profile/pin-serplay-manhwa-downloader.svg" alt="Manhwa Downloader" />
   </a>
 </p>
 
@@ -112,25 +112,25 @@ const SERPLAY: Developer = Developer {
 
 <p align="center">
   <a href="https://github.com/serplay">
-    <img height="180em" src="./profile/stats.svg" alt="Jakub's Stats" />
+    <img width="100%" height="300em" src="./profile/stats.svg" alt="Jakub's Stats" />
     
   </a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <a href="https://github.com/serplay">
-    <img height="180em" src="./profile/wakatime.svg" alt="Jakub's Wakatime Stats" />
+    <img width="100%" height="350em" src="./profile/wakatime.svg" alt="Jakub's Wakatime Stats" />
     
   </a>&nbsp;&nbsp;
 </p>
 <p align="center">
   <a href="https://github.com/serplay">
-    <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
+    <img width="100%" height="300em" src="./profile/top-langs.svg" alt="Top Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/serplay">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=serplay&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
+    <img width="100%" height="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=serplay&background=000000&border=333333&stroke=333333&ring=0070F3&fire=0070F3&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0070F3&sideLabels=888888&dates=555555" alt="GitHub Streak" />
   </a>
 </p>
 
