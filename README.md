@@ -39,7 +39,7 @@
   </a>
 </p>
 <p align="center">
-  <i>🏆 Hack Club Neighbourhood 3-Month App Dev Program Graduate based in San Francisco</i>
+  <i>🏆 Hack Club Neighborhood 3-Month App Dev Program Graduate based in San Francisco</i>
 </p>
 
 <br>
